@@ -1,7 +1,0 @@
-_site/
-.quarto/
-.DS_Store
-
-/.quarto/
-**/*.quarto_ipynb
-/Quinn.jpg
