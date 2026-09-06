@@ -1,0 +1,21 @@
+<div class="hero">
+<div class="hero-text">
+<div class="hero-name">Zheng (Quinn) Wang</div>
+<div class="hero-subtitle">Applied Economics Researcher · UC Davis → Stanford REAP · Agricultural &amp; Development Economics</div>
+<div class="hero-contact"><a href="mailto:wzquinn@outlook.com">wzquinn@outlook.com</a></div>
+</div>
+<div class="hero-photo-wrap"><img src="images/Quinn.jpg" alt="Zheng (Quinn) Wang"></div>
+</div>
+
+## About
+
+I am an applied economics researcher working at the intersection of agricultural and development economics. My research focuses on technology adoption and adaptation in rural, resource-limited regions. I am currently a Research Assistant at Stanford University's Rural Education Action Program (REAP), where my work also spans early childhood development and gender inequality.
+
+## Education
+
+### University of California, Davis
+
+**B.A. in Economics; B.S. in International Agricultural Development; Minor in Statistics** — 2021–2025
+
+- GPA: 3.76 / 4.00 · Major GPA: 3.92 · Highest Honors in Economics · Departmental Citation
+- Knowles A. Ryerson Award in Agriculture — one international recipient annually across the UC Davis and UC Berkeley colleges of agriculture
